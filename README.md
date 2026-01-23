@@ -1,3 +1,13 @@
-Este repositório contém todos os exercícios que foram desenvolvidos por mim durante o curso de Java com Orientação a objeto.
-Ferramenta utilizada: IntelliJ
-Conceitos praticados: Estrutura condicional, instânciação de objetos, criação e importação de classes.
+# Meus Estudos de Java
+
+## Sobre o projeto
+Este repositório contém meus primeiros passos com Java e POO.
+
+## 🛠 Tecnologias
+IntelliJ IDEA
+Java 17
+
+## Conteúdos
+1. Estruturas condicional (If/Else)
+2. Classes e Objetos
+3. Encapsulamento
