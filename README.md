@@ -1,7 +1,7 @@
 # Meus Estudos de Java
 
 ## Sobre o projeto
-Este repositório contém meus primeiros passos com Java e POO.
+Este repositório contém meus primeiros passos com Java e Programação Orientada a Objeto.
 
 ## Tecnologias
 IntelliJ IDEA
