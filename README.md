@@ -3,7 +3,7 @@
 ## Sobre o projeto
 Este repositório contém meus primeiros passos com Java e POO.
 
-## 🛠 Tecnologias
+## Tecnologias
 IntelliJ IDEA
 Java 17
 
