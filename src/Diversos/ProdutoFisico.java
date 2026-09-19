@@ -1,3 +1,5 @@
+package Diversos;
+
 import Interfaces.Calculavel;
 
 public class ProdutoFisico extends Produto implements Calculavel {

@@ -1,4 +1,8 @@
-public class calculadoraSalaRetangular implements CalculoGeometrico{
+package CalculosMatematicos;
+
+import Interfaces.CalculoGeometrico;
+
+public class calculadoraSalaRetangular implements CalculoGeometrico {
     @Override
     public void calculaArea(double altura, double largura) {
         double area = altura * largura;
@@ -19,7 +23,7 @@ public class calculadoraSalaRetangular implements CalculoGeometrico{
     //        System.out.println("Digite a largura da sala: ");
     //        double largura = leitor.nextDouble();
     //
-    //        calculadoraSalaRetangular calculadora = new calculadoraSalaRetangular();
+    //        CalculosMatematicos.calculadoraSalaRetangular calculadora = new CalculosMatematicos.calculadoraSalaRetangular();
     //        calculadora.calculaArea(altura, largura);
     //        calculadora.calculaPerimetro(altura, largura);
     //    }

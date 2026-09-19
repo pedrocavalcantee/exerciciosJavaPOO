@@ -1,3 +1,5 @@
+package Diversos;
+
 import Interfaces.ConversaoFinanceira;
 
 public class ConversorMoeda implements ConversaoFinanceira {
@@ -10,7 +12,7 @@ public class ConversorMoeda implements ConversaoFinanceira {
 
     //Exemplo de execução
     // public static void main(String[] args) {
-    //        ConversorMoeda conversor = new ConversorMoeda();
+    //        Diversos.ConversorMoeda conversor = new Diversos.ConversorMoeda();
     //        conversor.converterDolarParaReal(45);
     //    }
 

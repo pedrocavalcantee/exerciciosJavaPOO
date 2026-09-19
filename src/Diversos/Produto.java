@@ -1,3 +1,5 @@
+package Diversos;
+
 import Interfaces.Vendavel;
 
 public class Produto implements Vendavel {
@@ -36,7 +38,7 @@ public class Produto implements Vendavel {
 
     //Exemplo de execução
     // public static void main(String[] args) {
-    //        Produto produto1 = new Produto();
+    //        Diversos.Produto produto1 = new Diversos.Produto();
     //        produto1.setNome("Iphone 15 PRO");
     //        produto1.setPreco(7450);
     //        produto1.aplicaDesconto(10);

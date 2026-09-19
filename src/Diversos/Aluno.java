@@ -1,3 +1,5 @@
+package Diversos;
+
 public class Aluno {
     private String nome;
     private double nota1;
@@ -44,14 +46,14 @@ public class Aluno {
 
     // Exemplo de execução
     // public static void main(String[] args) {
-    //        Aluno aluno1 = new Aluno();
+    //        Diversos.Aluno aluno1 = new Diversos.Aluno();
     //        aluno1.setNome("Pedro");
     //        aluno1.setNota1(7);
     //        aluno1.setNota2(8);
     //        aluno1.setNota3(5);
     //        System.out.println("A média de notas de " + aluno1.getNome() + " foi " + aluno1.calculaMedia());
     //
-    //        Aluno aluno2 = new Aluno();
+    //        Diversos.Aluno aluno2 = new Diversos.Aluno();
     //        aluno2.setNome("João");
     //        aluno2.setNota1(6);
     //        aluno2.setNota2(5);

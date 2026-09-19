@@ -1,3 +1,5 @@
+package Diversos;
+
 public class IdadePessoa {
     private int idade;
     private String nome;
@@ -28,7 +30,7 @@ public class IdadePessoa {
 
     //Exemplo de execução
     // public static void main(String[] args) {
-    //        IdadePessoa pessoa1 = new IdadePessoa();
+    //        Diversos.IdadePessoa pessoa1 = new Diversos.IdadePessoa();
     //        pessoa1.setIdade(15);
     //        pessoa1.setNome("José");
     //        System.out.println(pessoa1.getNome() + " tem " + pessoa1.getIdade() + " anos");

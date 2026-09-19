@@ -1,3 +1,5 @@
+package Diversos;
+
 public class ContaCorrente extends ContaBancaria{
     double taxaMensal = 15;
     public void cobraTarifaMensal(){
@@ -5,7 +7,7 @@ public class ContaCorrente extends ContaBancaria{
         System.out.println("Tarifa mensal de R$" + taxaMensal + " cobrada. Saldo restante: R$" + saldo);
     }
 
-        /*ContaCorrente minhaConta = new ContaCorrente();
+        /*Diversos.ContaCorrente minhaConta = new Diversos.ContaCorrente();
         minhaConta.setNumeroConta(2413);
         minhaConta.titular = "Pedro";
         minhaConta.mostraInformacoesConta();

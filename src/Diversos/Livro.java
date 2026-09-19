@@ -1,3 +1,5 @@
+package Diversos;
+
 import Interfaces.Calculavel;
 
 public class Livro extends Produto implements Calculavel {
@@ -20,7 +22,7 @@ public class Livro extends Produto implements Calculavel {
         this.titulo = titulo;
     }
 
-    void exibeInformacoes(){
+    public void exibeInformacoes(){
         System.out.println("Autor: " + autor);
         System.out.println("Título: " + titulo);
         System.out.println("Preço da obra: " + getPreco());
@@ -35,11 +37,11 @@ public class Livro extends Produto implements Calculavel {
 
         //Exemplo de execução
         // public static void main(String[] args) {
-        //        Livro livro1 = new Livro();
+        //        Diversos.Livro livro1 = new Diversos.Livro();
         //        livro1.setAutor("Franz Kafka");
         //        livro1.setTitulo("A Metamorfose");
         //
-        //        Livro livro2 = new Livro();
+        //        Diversos.Livro livro2 = new Diversos.Livro();
         //        livro2.setAutor("Paulo Silveira");
         //        livro2.setTitulo("Lógica de Programação");
         //

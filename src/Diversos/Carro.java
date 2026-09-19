@@ -1,3 +1,5 @@
+package Diversos;
+
 public class Carro {
     private String modelo;
     private double precoAno1;

@@ -1,3 +1,5 @@
+package CalculosMatematicos;
+
 public class NumerosPrimos {
     int numero;
     public boolean verificaPrimalidade(int numero){

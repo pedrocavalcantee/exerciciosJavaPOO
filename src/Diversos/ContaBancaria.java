@@ -1,3 +1,5 @@
+package Diversos;
+
 public class ContaBancaria {
     private int numeroConta;
     protected double saldo;
@@ -38,7 +40,7 @@ public class ContaBancaria {
 
     // Código de exemplo de execução
     // public static void main(String[] args) {
-    //        ContaBancaria minhaConta = new ContaBancaria();
+    //        Diversos.ContaBancaria minhaConta = new Diversos.ContaBancaria();
     //        minhaConta.setNumeroConta(2413);
     //        minhaConta.titular = "Pedro";
     //        minhaConta.mostraInformacoesConta();

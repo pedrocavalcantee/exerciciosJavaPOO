@@ -1,3 +1,7 @@
+package CalculosMatematicos;
+
+import Interfaces.Tabuada;
+
 public class TabuadaMultiplicacao implements Tabuada {
 
     @Override
@@ -13,7 +17,7 @@ public class TabuadaMultiplicacao implements Tabuada {
     //            System.out.println("Digite o número para mostrar a tabuada ");
     //            int numero = leitor.nextInt();
     //
-    //            TabuadaMultiplicacao tabuada = new TabuadaMultiplicacao();
+    //            CalculosMatematicos.TabuadaMultiplicacao tabuada = new CalculosMatematicos.TabuadaMultiplicacao();
     //            tabuada.mostrarTabuada(numero);
     //        }
 
