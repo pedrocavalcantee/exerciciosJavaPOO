@@ -29,6 +29,7 @@ public class Pessoa {
  /*
  Exemplo de execução
  Pessoa pessoa1 = new Pessoa();
+        GUILHERME ESTÁ PARTICIPANDO DO CURSO
         pessoa1.setNome("Pedro");
         pessoa1.setIdade(18);
 
